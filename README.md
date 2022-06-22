@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vaibhavs-pathak
 - 👀 I’m interested in exploring and implementing new technologies. 
-- 🌱 I’m currently working as Sr. Prodcut Engineer at LTI(L&T)
+- 🌱 I’m currently working as Specialist Prodcut Engineer at LTI(L&T)
 
 <!---
 vaibhavs-pathak/vaibhavs-pathak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
